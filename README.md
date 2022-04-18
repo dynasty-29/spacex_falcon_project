@@ -10,3 +10,19 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 Use data science methodologies to define and formulate a real-world business problem.
 
 Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
+
+Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process.
+
+Build a dashboard to analyze launch records interactively with Plotly Dash.
+
+Build an interactive map to analyze the launch site proximity with Folium.
+
+Split the data into training testing data.
+
+Train different classification models.
+
+Hyperparameter grid search.
+
+Use your machine learning skills to build a predictive model to help a business function more efficiently.
+
+Learn how to structure and build your data-findings report.
